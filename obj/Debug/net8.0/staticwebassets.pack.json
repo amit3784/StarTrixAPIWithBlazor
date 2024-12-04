@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Amitabh\\StarTrix\\Repositories\\Blazor\\StarTrixAPIWithBlazor\\StarTrixAPIWithBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StarTrixAPIWithBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StarTrixAPIWithBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Amitabh\\StarTrix\\Repositories\\Blazor\\StarTrixAPIWithBlazor\\StarTrixAPIWithBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Amitabh\\StarTrix\\Repositories\\Blazor\\StarTrixAPIWithBlazor\\StarTrixAPIWithBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Amitabh\\StarTrix\\Repositories\\Blazor\\StarTrixAPIWithBlazor\\StarTrixAPIWithBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Amitabh\\StarTrix\\Repositories\\Blazor\\StarTrixAPIWithBlazor\\StarTrixAPIWithBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StarTrixAPIWithBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StarTrixAPIWithBlazor.props",
+      "PackagePath": "build\\StarTrixAPIWithBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StarTrixAPIWithBlazor.props",
+      "PackagePath": "buildMultiTargeting\\StarTrixAPIWithBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StarTrixAPIWithBlazor.props",
+      "PackagePath": "buildTransitive\\StarTrixAPIWithBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
