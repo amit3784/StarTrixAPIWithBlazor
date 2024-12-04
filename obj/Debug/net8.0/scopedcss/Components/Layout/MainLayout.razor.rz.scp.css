@@ -1,13 +1,22 @@
 .startrix-button[b-t5l4kycx0g] {
     background-color:#259ba3 ;
-    font-family: Arial, Helvetica, sans-serif;
+    
     color: white;
 }
+.startrix-input[b-t5l4kycx0g] {
+    width: 200px;
+}
+
+.startrix-page[b-t5l4kycx0g] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
 .page[b-t5l4kycx0g] {
     position: relative;
     display: flex;
     flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 main[b-t5l4kycx0g] {

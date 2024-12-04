@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarTrixAPIWithBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be391b94ae154f9ab0dd0e829e80f6fb47a85d78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b39c35c76e0a9cdbec424b006bbb87022131fa2")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarTrixAPIWithBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarTrixAPIWithBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

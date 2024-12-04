@@ -1,13 +1,22 @@
 .startrix-button {
     background-color:#259ba3 ;
-    font-family: Arial, Helvetica, sans-serif;
+    
     color: white;
 }
+.startrix-input {
+    width: 200px;
+}
+
+.startrix-page {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
 .page {
     position: relative;
     display: flex;
     flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 main {

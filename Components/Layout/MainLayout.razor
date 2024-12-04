@@ -1,20 +1,40 @@
 ﻿@inherits LayoutComponentBase
 
 <div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
+    
 
     <main>
-        <div class="top-row px-4">
+        <div style="background-color: rgb(19, 53, 70);">
+            <div class="row">
+                <div class="col-sm-2 float-start">
+                    <NavMenu  />
             
-            <button class="btn-sm rounded-pill startrix-button">Create Ideas</button>
-            
+                </div>
+                <div class="col-sm-7  navbar navbar-dark">
+                     <table>
+                        <tr>
+                            <td align="center"><a class="btn btn-sm rounded-2 startrix-button mx-3" href="">Home</a></td>
+                            <td align="center"><a class="btn btn-sm rounded-2 startrix-button mx-3" href="Error">About</a></td>
+                            <td align="center"><a class="btn btn-sm rounded-2 startrix-button mx-3" href="Counter">Contact</a></td>
+                            <td align="center"><a class="btn btn-sm rounded-2 startrix-button mx-3" href="Profile">Profile</a></td>
+                        </tr>
+                     </table>
+                       
+                </div>
+                <div class="col-sm-3  navbar navbar-dark">
+                    <div class="input-group float-end px-4">
+                        <input type="search" placeholder="Search Blogs..." class="startrix-input form-control" >
+                    <button class="btn btn-sm rounded-2 startrix-button">Search</button>
+                    </div>
+                    
+                </div>
+                
+            </div>
         </div>
         
-           
         
-        <article class="content px-4">
+        
+        <article class="content px-4 startrix-page">
             @Body
         </article>
     </main>
